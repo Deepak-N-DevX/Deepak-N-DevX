@@ -17,7 +17,6 @@
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="DevX"/>
 </div>
-<!-- ### GitHub Stats -->
 <hr>
 
 ### :woman_technologist: About Me :
