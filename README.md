@@ -1,5 +1,4 @@
-
-<img src="https://raw.githubusercontent.com/Deepak-N-DevX/Deepak-N-DevX/main/deepak.png.png" alt="Deepak Profile">
+<img src="" alt="Deepak Profile">
 <h3 align="center">Full Stack Web Developer | IoT | Open Source Contributore | Freelancer | UI UX Designer </h3>
 <hr>
 <h1 align="center">Hi 👋, I'm Deepak Nayak</h1>
